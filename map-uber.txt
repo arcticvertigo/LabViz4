@@ -1,0 +1,6 @@
+Map function
+It took 0.03999924659729004 seconds 
+
+Heatmap function
+It took 0.9200067520141602 seconds 
+
